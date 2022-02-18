@@ -1,7 +1,7 @@
 ## Olá, seja bem-vindo😃
 
 * 🎓 **Formação acadêmica:** Cursando Análise e desenvolvimento de sistemas na UniAmérica.
-* 👨‍💻 **Estudando:** Desenvolvimento Front-end e desenvolvimento de jogos.
+* 👨‍💻 **Estudando:** Desenvolvimento Web
 * 🌱 **Início desta jornada na programação:** Janeiro/2022
 
 <div align="center">
