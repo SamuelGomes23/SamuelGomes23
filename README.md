@@ -2,7 +2,7 @@
 
 * 🎓 **Formação acadêmica:** Cursando Análise e desenvolvimento de sistemas na UniAmérica.
 * 👨‍💻 **Estudando:** Desenvolvimento Web
-* 🌱 **Início desta jornada na programação:** Janeiro/2022
+* 🌱 **Início da jornada na programação:** Janeiro/2022
 
 <div align="center">
   <a href="https://github.com/SamuelGomes23">
