@@ -2,6 +2,7 @@
 * 🎓 **Formação acadêmica:** Cursando Análise e desenvolvimento de sistemas na UniAmérica.
 * 👨‍💻 **Estudando:** Desenvolvimento Front-end
 * 🌱 **Início da jornada na programação:** Janeiro/2022
+<div style="display: flex">
 <div align="center">
   <a href="https://github.com/SamuelGomes23">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuelGomes23&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
